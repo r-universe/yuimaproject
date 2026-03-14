@@ -5,3 +5,6 @@
 [submodule "yuima"]
 	path = yuima
 	url = https://github.com/yuimaproject/yuima
+[submodule "yuimaGUI"]
+	path = yuimaGUI
+	url = https://github.com/yuimaproject/yuimagui
